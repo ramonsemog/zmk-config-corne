@@ -74,7 +74,7 @@
         layer_4 {
             bindings = <
 &trans            &trans  &trans  &trans         &trans  &trans    &trans    &trans     &kp PIPE   &kp SINGLE_QUOTE   &trans      &trans
-&kp LEFT_SHIFT    &trans  &trans  &kp AMPERSAND  &trans  &trans    &kp HASH  &kp TILDE  &kp SLASH  &kp DOUBLE_QUOTES  &kp DOLLAR  &trans
+&kp CARET         &trans  &trans  &kp AMPERSAND  &trans  &trans    &kp HASH  &kp TILDE  &kp SLASH  &kp DOUBLE_QUOTES  &kp DOLLAR  &trans
 &kp LEFT_CONTROL  &trans  &trans  &trans         &trans  &trans    &trans    &kp MINUS  &trans     &kp GRAVE          &trans      &trans
                                   &trans         &trans  &trans    &trans    &trans     &trans
             >;
