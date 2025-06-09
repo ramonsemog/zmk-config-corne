@@ -1,0 +1,9 @@
+/ {
+    chosen {
+        zmk,kscan = &kscan0; 
+    };
+};
+
+&kscan0 { 
+    wakeup-source; 
+};
