@@ -103,7 +103,7 @@
         compatible = "zmk,conditional-layers";
 
         CORNECONTROL {
-            if-layers = <2 2>;
+            if-layers = <1 2>;
             then-layer = <6>;
         };
     };
