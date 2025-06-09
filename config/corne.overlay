@@ -1,0 +1,11 @@
+// your_zmk_config_repo/config/corne.overlay
+
+/ {
+    chosen {
+        zmk,kscan = &kscan0;
+    };
+};
+
+&kscan0 {
+    wakeup-source;
+};
